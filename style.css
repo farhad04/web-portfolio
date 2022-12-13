@@ -1,8 +1,13 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
 h1{
    
 }
 .degine{
-    font-size: 25px;
+    font-size: 21px;
     font-family: 'Poppins', sans-serif;
 font-family: 'Rubik Gemstones', cursive;
 font-family: 'Rubik Spray Paint', cursive;
@@ -10,4 +15,21 @@ font-family: 'Rubik Spray Paint', cursive;
 }
 .color-f{
     color: chocolate;
+}
+.half-w{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+}
+.half-w img{
+    width: 100%;
+}
+.top-banner{
+           background-image: url("images/top-banner.png");
+           background-repeat: no-repeat;
+    
+}
+section{
+    height: 500px;
 }
