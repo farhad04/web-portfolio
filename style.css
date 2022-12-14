@@ -2,9 +2,15 @@ body{
     margin: 0;
     font-family: 'Poppins', sans-serif;
 }
-
 h1{
-   
+    font-size: 40px;
+}
+
+h2{
+   font-size: 18px;
+}
+p{
+    color: dimgray;
 }
 .degine{
     font-size: 21px;
@@ -25,6 +31,9 @@ font-family: 'Rubik Spray Paint', cursive;
 .half-w img{
     width: 100%;
 }
+.o-h{
+    color: orange;
+}
 .top-banner{
            background-image: url("images/top-banner.png");
            background-repeat: no-repeat;
@@ -42,4 +51,9 @@ section{
     color: aliceblue;
     font-weight: bold;
 
+}
+.dream-area{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
